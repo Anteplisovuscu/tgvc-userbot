@@ -1,8 +1,7 @@
 # Telegram Voice Chat UserBot [![Mentioned in Awesome Telegram Calls](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/tgcalls/awesome-tgcalls)
 
 ## Heroku Deploy
-[![Deploy]
-(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kimsesizinteki/RobbersMusicBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kimsesizinteki/RobbersMusicBot)
 
 ![Python Workflow](https://github.com/callsmusic/tgvc-userbot/actions/workflows/python-package.yml/badge.svg)
 
